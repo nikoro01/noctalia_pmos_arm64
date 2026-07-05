@@ -1,7 +1,7 @@
 # noctalia_pmos_arm64
 Noctalia Shell V5 for arm64 devices running postmarketOS
 
-Tested and **builded** on Wileyfox Swift 
+Tested and **built** on Wileyfox Swift 
 
 
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/d9ae90c7-7953-4b85-9280-4ce2a0510463" /> <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/987dcd68-9bc0-49d7-beac-e27242214113" />
